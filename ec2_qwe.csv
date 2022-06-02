@@ -1,0 +1,16 @@
+sno,instance_id,instance_type,key_name,private_ip_address,public_ip_address
+1,i-06907730a9930d004,t2.2xlarge,petclinic1,,172.31.29.97
+2,i-0511318b431ec5548,t2.micro,petclinic1,,172.31.19.225
+3,i-0e1a7e3b4350584c7,t2.micro,petclinic1,,172.31.28.89
+4,i-0065ab7d2411c2b47,t2.micro,petclinic1,,172.31.31.63
+5,i-0657f7e33759b6f7b,t2.micro,petclinic1,13.213.37.94,172.31.19.243
+6,i-0303d0aa07218a1ba,t3.small,,52.77.254.165,192.168.28.177
+7,i-0bb753856fa9e8ff8,t3.small,,13.212.241.229,192.168.60.226
+8,i-0f5cbeeb18795337f,t3.small,,3.0.209.200,192.168.91.154
+9,i-0c2a89770b8fcf593,t2.micro,terraform,,172.31.28.221
+10,i-0e357a7baf04b2215,t2.micro,terraform,,172.31.83.226
+11,i-0cd95214e20c689ae,t2.micro,terraform,,172.31.95.191
+12,i-0e0219c7d3b39f7cd,t2.micro,,18.218.135.157,172.31.13.56
+13,i-072e85f81147c7655,t2.micro,,18.118.7.157,172.31.4.207
+14,i-0d83a23d42614d43f,t2.micro,,3.144.113.153,172.31.0.35
+15,i-032cd9c00ce1a991a,t2.micro,,3.144.252.223,172.31.1.144
